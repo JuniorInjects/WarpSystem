@@ -1,0 +1,10 @@
+main: de.juniorinjects.warpsystem1165.Main
+name: WarpSystem
+author: JuniorInjects
+version: 1.16.5
+
+commands:
+   warp:
+   warps:
+   setwarp:
+   delwarp: 
